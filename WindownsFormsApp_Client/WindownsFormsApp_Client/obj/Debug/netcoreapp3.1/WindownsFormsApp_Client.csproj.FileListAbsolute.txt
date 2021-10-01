@@ -1,0 +1,15 @@
+C:\Users\palla\Documents\Coding\Winforms\WindownsFormsApp_Client\WindownsFormsApp_Client\bin\Debug\netcoreapp3.1\WindownsFormsApp_Client.exe
+C:\Users\palla\Documents\Coding\Winforms\WindownsFormsApp_Client\WindownsFormsApp_Client\bin\Debug\netcoreapp3.1\WindownsFormsApp_Client.deps.json
+C:\Users\palla\Documents\Coding\Winforms\WindownsFormsApp_Client\WindownsFormsApp_Client\bin\Debug\netcoreapp3.1\WindownsFormsApp_Client.runtimeconfig.json
+C:\Users\palla\Documents\Coding\Winforms\WindownsFormsApp_Client\WindownsFormsApp_Client\bin\Debug\netcoreapp3.1\WindownsFormsApp_Client.runtimeconfig.dev.json
+C:\Users\palla\Documents\Coding\Winforms\WindownsFormsApp_Client\WindownsFormsApp_Client\bin\Debug\netcoreapp3.1\WindownsFormsApp_Client.dll
+C:\Users\palla\Documents\Coding\Winforms\WindownsFormsApp_Client\WindownsFormsApp_Client\bin\Debug\netcoreapp3.1\WindownsFormsApp_Client.pdb
+C:\Users\palla\Documents\Coding\Winforms\WindownsFormsApp_Client\WindownsFormsApp_Client\obj\Debug\netcoreapp3.1\WindownsFormsApp_Client.csprojAssemblyReference.cache
+C:\Users\palla\Documents\Coding\Winforms\WindownsFormsApp_Client\WindownsFormsApp_Client\obj\Debug\netcoreapp3.1\WindownsFormsApp_Client.Form1.resources
+C:\Users\palla\Documents\Coding\Winforms\WindownsFormsApp_Client\WindownsFormsApp_Client\obj\Debug\netcoreapp3.1\WindownsFormsApp_Client.csproj.GenerateResource.cache
+C:\Users\palla\Documents\Coding\Winforms\WindownsFormsApp_Client\WindownsFormsApp_Client\obj\Debug\netcoreapp3.1\WindownsFormsApp_Client.AssemblyInfoInputs.cache
+C:\Users\palla\Documents\Coding\Winforms\WindownsFormsApp_Client\WindownsFormsApp_Client\obj\Debug\netcoreapp3.1\WindownsFormsApp_Client.AssemblyInfo.cs
+C:\Users\palla\Documents\Coding\Winforms\WindownsFormsApp_Client\WindownsFormsApp_Client\obj\Debug\netcoreapp3.1\WindownsFormsApp_Client.csproj.CoreCompileInputs.cache
+C:\Users\palla\Documents\Coding\Winforms\WindownsFormsApp_Client\WindownsFormsApp_Client\obj\Debug\netcoreapp3.1\WindownsFormsApp_Client.dll
+C:\Users\palla\Documents\Coding\Winforms\WindownsFormsApp_Client\WindownsFormsApp_Client\obj\Debug\netcoreapp3.1\WindownsFormsApp_Client.pdb
+C:\Users\palla\Documents\Coding\Winforms\WindownsFormsApp_Client\WindownsFormsApp_Client\obj\Debug\netcoreapp3.1\WindownsFormsApp_Client.genruntimeconfig.cache
